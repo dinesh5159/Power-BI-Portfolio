@@ -16,6 +16,7 @@ A dynamic Power BI dashboard designed to track sales performance and compare act
 ✔️ Seamless navigation for targeted data exploration.  
 ✔️ Data-driven insights for strategic decision-making.  
 📥 **Download Project:** [Sales Analysis KPI Dashboard](SalesAnalysisDashboard.pbix)  
+### Dashboard Link : https://app.powerbi.com/groups/me/reports/e65588da-f520-4188-a627-fa87a904a88d/35062cf4ac742b7ca093?experience=power-bi
 ---
 ## **2️⃣ Gold Sales and Production Analysis Dashboard**  
 A Power BI dashboard analyzing **Gold Sales and Production Data** from **Titan Company Limited**, offering insights into **Production, Sales, and Time Management** to optimize operations.  
@@ -36,3 +37,4 @@ A Power BI dashboard analyzing **Gold Sales and Production Data** from **Titan C
 ### **💡 Skills Applied:**  
 ✅ DAX Calculations | ✅ Data Modeling | ✅ Page Navigation | ✅ Visualization Best Practices  
 📥 **Download Project:** [Gold Sales and Production Analysis Dashboard](GoldProductionAnalysis.pbix)
+### Dashboard Link : https://app.powerbi.com/reportEmbed?reportId=823d0952-0d2a-4f8a-b295-f9fe9fbc030f&autoAuth=true&ctid=8a38d5c9-ff2f-479e-8637-d73f6241a4f0
