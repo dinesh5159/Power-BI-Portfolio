@@ -1,4 +1,4 @@
-# ** Power-BI-Portfolio **
+# **Power-BI-Portfolio**
 ## **1️⃣ Sales Analysis KPI Dashboard**  
 A dynamic Power BI dashboard designed to track sales performance and compare actual sales against targets effectively.  
 ### **🔹 Key Features:**  
